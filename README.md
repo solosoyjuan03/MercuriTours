@@ -9,4 +9,4 @@ Este repositorio contiene pruebas automatizadas desarrolladas en **Java** utiliz
 * Maven
 
 ---
-*Automatizado por [Juan David Henao](https://github.com/solosoyjuan03)*
+*Automatizado por [Juan D. Henao](https://github.com/solosoyjuan03)*
